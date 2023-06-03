@@ -1,15 +1,15 @@
 @charset "utf-8";
 @font-face {
     font-family: "조선일보명조";
-    src: url(./font/ChosunNm.ttf);
+    src: url(/font/ChosunNm.ttf);
 }
 @font-face {
     font-family: "NewYork-PERSONAL-USE";
-    src: url(./font/NewYork-PERSONAL-USE.otf);
+    src: url(/font/NewYork-PERSONAL-USE.otf);
 }
 @font-face {
     font-family: "Pretendard";
-    src: url(./font/Pretendard/Pretendard-Regular.ttf);
+    src: url(/font/Pretendard/Pretendard-Regular.ttf);
 }
 
 *{
