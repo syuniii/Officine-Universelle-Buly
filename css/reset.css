@@ -1,0 +1,35 @@
+@charset "utf-8";
+@font-face {
+    font-family: "조선일보명조";
+    src: url(./font/ChosunNm.ttf);
+}
+@font-face {
+    font-family: "NewYork-PERSONAL-USE";
+    src: url(./font/NewYork-PERSONAL-USE.otf);
+}
+@font-face {
+    font-family: "Pretendard";
+    src: url(./font/Pretendard/Pretendard-Regular.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "NewYork-PERSONAL-USE";
+}
+a{
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+ol,ul,li{
+    list-style: none;
+}
+img,svg,video,iframe{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-position: center;
+}
