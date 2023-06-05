@@ -3,7 +3,7 @@
 .page1{
     width: 100%;
     height: 100vh;
-    background-image: url(/img/main.jpg);
+    background-image: url(../img/main.jpg);
     background-position: center;
 }
 .header{
@@ -813,6 +813,9 @@ footer{
     .page1_txt-box{
         font-size: 35px;
     }
+    .page2{
+        padding: 0 16px;
+    }
     .page2 .hero{
         top: 68%;
         left: 76%;
@@ -823,8 +826,10 @@ footer{
     .page2 .txt .first-box img {
         width: 230px;
     }
+
     .page3{
         overflow: hidden;
+        padding: 0 16px;
     }
     .page3 .product-box{
         width: 700px;
