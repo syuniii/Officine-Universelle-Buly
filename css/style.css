@@ -1078,6 +1078,9 @@ footer{
         font-size: 45px;
         margin-left: 0;
     }
+    .swiper-slide p{
+        font-size: 14px;
+    }
     .page6_txt p {
         font-size: 60px;
         top: 16.9%;
